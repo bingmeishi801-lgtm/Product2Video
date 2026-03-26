@@ -1,8 +1,0 @@
-{
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/generate/route": "app/api/generate/route.js",
-  "/generate/page": "app/generate/page.js",
-  "/api/task/[id]/route": "app/api/task/[id]/route.js",
-  "/page": "app/page.js",
-  "/result/[taskId]/page": "app/result/[taskId]/page.js"
-}
